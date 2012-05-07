@@ -1,0 +1,197 @@
+/* CSS Document */
+*{ margin:0px auto; padding:0px}
+body{
+	font-size:12px;
+	font-family:Arial, Helvetica, sans-serif;
+	width:970px;
+	border:1px solid #ccc;
+	-moz-border-radius:5px 5px 5px 5px;	
+}
+#top{
+	height:53px;	
+}
+#form_regis input.error{
+	background:#0F9;	
+}
+#form_regis span{
+	color:red;	
+}
+#menu{
+	float:left;
+	width:970px;
+	background:#F0F0F0;
+}
+.nav, .nav ul {
+    list-style:  none;
+    position: relative;
+    line-height: 1.5em;
+}
+
+.nav a:link, #nav a:active,
+.nav a:visited {
+    display: block;
+    padding: 0px 25px;
+    border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+  	color:#000;
+	font-weight:bold;
+    text-decoration: none;
+    background:#F0F0F0;
+	line-height:25px;
+	
+	
+}
+
+.nav a:hover {
+    background: #fff;
+    color: #333;
+}
+
+.nav li {
+    float: left;
+    position: relative;
+}
+
+.nav ul {
+    position: absolute;
+    width: 120px;
+    top: 25px;
+    display: none;
+}
+
+.nav li ul a {
+    width: 120px;
+    float: left;
+}
+
+.nav ul ul {
+    top: auto;
+}
+
+.nav li ul ul {
+    left: 120px
+    margin: 0px 0 0 10px;
+}
+
+.nav li:hover ul ul, 
+.nav li:hover ul ul ul,
+.nav li:hover ul ul ul ul {
+    display: none;
+}
+
+.nav li:hover ul,
+.nav li li:hover ul,
+.nav li li li:hover ul,
+.nav li li li li:hover ul {
+    display: block;
+}
+
+#info{
+	float:left;	
+	width:970px;	
+}
+#footer{
+	clear:left;
+	background:#000;
+	color:white;
+	text-align:center;
+	line-height:50px;	
+}
+.ls{
+	clear:left;	
+}
+.acount{
+	position:absolute;
+	top:25px;
+	left:850px;
+	width:120px;
+	color:white;
+	font-weight:bold;	
+}
+.white{ color:white}
+.top_info{
+	line-height:60px;	
+	width:940px;
+	margin:5px 5px 5px 15px;
+	border:1px solid #ccc;
+	float:left;
+	-moz-border-radius:10px 10px 10px 10px;
+}
+.bottom_info{
+	width:940px;	
+	margin:5px 5px 10px 15px;
+	border:1px solid #ccc;
+	float:left;
+	-moz-border-radius:10px 10px 10px 10px;
+	
+}
+.left_top{
+	float:left;
+	width:700px;	
+}
+.right_top{
+	float:left;
+	width:240px;
+	line-height:60px;	
+}
+.xanh{
+	color:#06F;
+	padding:0px 0px 0px 10px;		
+}
+.top_table{
+	width:150px;
+	height:60px;
+	text-align:center;
+	float:left;	
+}
+.table{
+	float:left;
+	width:940px;
+	padding:9px;
+	border:0px;		
+}
+.table1{
+	float:left;
+	width:940px;
+	padding:9px;
+	border:0px;
+	line-height:30px;		
+}
+
+.td{
+	line-height:30px;
+	border:0px solid #ccc;
+	text-align:center;
+	line-height:30px;
+	background:#F0F0F0;
+	
+}
+.td:hover{
+	background:#999;	
+}
+.tr{
+		border:0px solid #ccc;
+		background:#999;
+		line-height:30px;
+		text-align:center;
+		color:white;
+		font-weight:bold;	
+}
+a{
+	text-decoration:none;
+	border:0px;
+}
+img{
+	border:0px}
+.input_save{
+	border:0px;
+	background:#FFAD01;
+	color:white;
+	line-height:20px;
+	-moz-border-radius:5px 5px 5px 5px;
+	padding:5px;
+	font-weight:bold;
+		
+}
+
+

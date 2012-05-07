@@ -1,0 +1,288 @@
+1318019439TS---><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Shop máy tính</title>
+<link rel="stylesheet" href="http://localhost/doanshop/public/css_main/style.css" type="text/css" />
+<link rel="stylesheet" href="http://localhost/doanshop/public/css_main/nivo-style.css" type="text/css" />
+<link rel="stylesheet" href="http://localhost/doanshop/public/css_main/nivo-slider.css" type="text/css" />
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<script  type="text/javascript" src="http://localhost/doanshop/public/js/jquery.nivo.slider.pack.js"></script>
+<script  type="text/javascript" src="http://localhost/doanshop/public/js/slideshow_index.js"></script>
+<script  type="text/javascript" src="http://localhost/doanshop/public/js/ajax.js"></script>
+<link href="http://localhost/doanshop/public/css/tooltip.css" type="text/css" rel="stylesheet" />
+
+
+
+<script type="text/javascript" src="http://localhost/doanshop/public/js/tootip.js"></script>
+
+</head>
+
+<body>
+	<div id="top">
+    
+    </div>   
+    <div id="menu">
+    	<ul class="nav">
+        	<li><a href="http://localhost/doanshop/index.php/main">Trang chủ</a></li>
+            <li><a href="http://localhost/doanshop/index.php/news">Tin tức</a>
+            	
+            </li>
+            <li><a href="#">Giới thiệu</a></li>
+            <li><a href="#">Trả góp</a></li>
+            <li><a href="#">Khuyến mãi</a></li>
+            <li><a href="#">Liên hệ</a></li>
+             <li><a href="#">Download</a></li>
+        </ul>
+	</div>
+    
+     <div class="ls"></div>
+     <div id="slider" class="nivoSlider">
+     	            <a href="http://localhost/doanshop/http://www.hanoicomputer.vn/"><img src="http://localhost/doanshop/upload/quangcao/anh41.png" alt="" /></a>
+            
+                    <a href="http://localhost/doanshop/http://hcm.24h.com.vn/"><img src="http://localhost/doanshop/upload/quangcao/anh3.png" alt="" /></a>
+            
+            
+        </div>
+        
+       
+<div class="ls"></div>
+    <div id="menu_dm">
+    	<ul class="nav">
+        	            	<li><a href="#" class="mauxanh">ĐIỆN THOẠI</a>
+                	<ul>     
+                    	                         <li><a href="#" class="mauxanh">Điện thoại Acer</a></li>
+                                                 <li><a href="#" class="mauxanh">Điện thoại Dell</a></li>
+                                                 <li><a href="#" class="mauxanh">Điện thoại FPT</a></li>
+                                                 <li><a href="#" class="mauxanh">Điện thoại HTC</a></li>
+                                                		
+                                       	               	
+                                                           	
+                    </ul>					
+                </li>
+                        	<li><a href="#" class="mauxanh">LAPTOP</a>
+                	<ul>     
+                    	                         <li><a href="#" class="mauxanh">Laptop Acer</a></li>
+                                                 <li><a href="#" class="mauxanh">Laptop Asus</a></li>
+                                                 <li><a href="#" class="mauxanh">Laptop Apple</a></li>
+                                                 <li><a href="#" class="mauxanh">Laptop Dell</a></li>
+                                                		
+                                       	               	
+                                                           	
+                    </ul>					
+                </li>
+                        	<li><a href="#" class="mauxanh">MÁY TÍNH BẢNG</a>
+                	<ul>     
+                    	                         <li><a href="#" class="mauxanh">Máy tính bảng Acer</a></li>
+                                                 <li><a href="#" class="mauxanh">Máy tính bảng Asus</a></li>
+                                                 <li><a href="#" class="mauxanh">Ipad Apple</a></li>
+                                                 <li><a href="#" class="mauxanh">Máy tính bảng HTC</a></li>
+                                                 <li><a href="#" class="mauxanh">Máy tính bảng Samsung</a></li>
+                                                		
+                                       	               	
+                                                           	
+                    </ul>					
+                </li>
+                        	<li><a href="#" class="mauxanh">DESKTOP</a>
+                	<ul>     
+                    	                         <li><a href="#" class="mauxanh">Desktop Dell</a></li>
+                                                 <li><a href="#" class="mauxanh">Desktop Asus</a></li>
+                                                 <li><a href="#" class="mauxanh">Desktop FPT Elead</a></li>
+                                                 <li><a href="#" class="mauxanh">Desktop HP Compaq</a></li>
+                                                 <li><a href="#" class="mauxanh">IMac - Apple</a></li>
+                                                 <li><a href="#" class="mauxanh">Desktop IBM Lenovo</a></li>
+                                                		
+                                       	               	
+                                                           	
+                    </ul>					
+                </li>
+                        	<li><a href="#" class="mauxanh">MÁY TÍNH KTS</a>
+                	<ul>     
+                    	                         <li><a href="#" class="mauxanh">Máy ảnh Canon</a></li>
+                                                 <li><a href="#" class="mauxanh">Máy ảnh Panasonic</a></li>
+                                                 <li><a href="#" class="mauxanh">Máy ảnh Samsung</a></li>
+                                                 <li><a href="#" class="mauxanh">Máy ảnh Sony</a></li>
+                                                		
+                                       	               	
+                                                           	
+                    </ul>					
+                </li>
+                        	<li><a href="#" class="mauxanh">PHỤ KIỆN</a>
+                	<ul>     
+                    	                         <li><a href="#" class="mauxanh">Chuột</a></li>
+                                                 <li><a href="#" class="mauxanh">Màn hình</a></li>
+                                                 <li><a href="#" class="mauxanh">Ổ cứng</a></li>
+                                                 <li><a href="#" class="mauxanh">Ram</a></li>
+                                                		
+                                       	               	
+                                                           	
+                    </ul>					
+                </li>
+                        	<li><a href="#" class="mauxanh">DỊCH VỤ</a>
+                	<ul>     
+                    	                        		
+                                       	               	
+                                                           	
+                    </ul>					
+                </li>
+                        	<li><a href="#" class="mauxanh">THỦ TỤC TRẢ GÓP</a>
+                	<ul>     
+                    	                        		
+                                       	               	
+                                                           	
+                    </ul>					
+                </li>
+                    	
+        </ul>
+    </div>    <div id="content">
+    	<div id="left">
+    	<div class="sanpham">
+        	<h1 class="maudo"><a href="http://localhost/doanshop/index.php/main" class="a_trangchu">Trang chủ</a>>><a href="http://localhost/doanshop/index.php/news#left" class="a_trangchu">Tin tức</a> >> 
+            <a href="http://localhost/doanshop/index.php/news/detail/<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Trying to get property of non-object</p>
+<p>Filename: news/detail.php</p>
+<p>Line Number: 4</p>
+
+</div>#left" class="a_trangchu"><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Trying to get property of non-object</p>
+<p>Filename: news/detail.php</p>
+<p>Line Number: 4</p>
+
+</div></a></h1>         
+        </div>
+        <div class="ct">
+        <table class="tintuc">
+     
+            	<tr>
+                	<td style="padding-bottom:10px; text-align:justify; padding:10px 20px;"><a href="http://localhost/doanshop/index.php/news/detail/<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Trying to get property of non-object</p>
+<p>Filename: news/detail.php</p>
+<p>Line Number: 10</p>
+
+</div>#left" class="a_red"><h3><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Trying to get property of non-object</p>
+<p>Filename: news/detail.php</p>
+<p>Line Number: 10</p>
+
+</div></h3></a></td>
+                </tr>
+                <tr>
+                	<td style="text-align:justify; padding:0px 20px;"><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Trying to get property of non-object</p>
+<p>Filename: news/detail.php</p>
+<p>Line Number: 13</p>
+
+</div></td>
+               </tr>
+               <tr>
+               		<td style="text-align:justify; padding:0px 20px;"><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Trying to get property of non-object</p>
+<p>Filename: news/detail.php</p>
+<p>Line Number: 16</p>
+
+</div></td>
+               </tr>
+                       
+            
+           </table>	
+        </div>
+         
+        </div>  
+  
+  
+  
+  
+        <div id="right">
+        	<h2 class="maudo1">Tin tức</h2>
+                    	<div class="info_news">
+            	<img src="http://localhost/doanshop/upload/news/resize_216_toan-the.jpg" height="80" width="80" align="left" class="img" />
+                <a href="http://localhost/doanshop/index.php/news/detail/3#left" class="a_news">Intel Pentium G620 + Gigabyte GA-H61M-S2V-B3: </a>
+            </div>
+             <div class="ls"></div>
+                    	<div class="info_news">
+            	<img src="http://localhost/doanshop/upload/news/resize_282_logo.jpg" height="80" width="80" align="left" class="img" />
+                <a href="http://localhost/doanshop/index.php/news/detail/2#left" class="a_news">Hanoicomputer – 10 năm một chặng đường</a>
+            </div>
+             <div class="ls"></div>
+                    	<div class="info_news">
+            	<img src="http://localhost/doanshop/upload/news/resize_73_new_year_2011_888853_1292035595.jpg" height="80" width="80" align="left" class="img" />
+                <a href="http://localhost/doanshop/index.php/news/detail/5#left" class="a_news">Thông báo nghỉ tết âm lịch 2011</a>
+            </div>
+             <div class="ls"></div>
+                    	<div class="info_news">
+            	<img src="http://localhost/doanshop/upload/news/resize_108_heo_dat00557058.jpg" height="80" width="80" align="left" class="img" />
+                <a href="http://localhost/doanshop/index.php/news/detail/4#left" class="a_news">Mua hàng trả góp tại HanoiComputer</a>
+            </div>
+             <div class="ls"></div>
+                    	<div class="info_news">
+            	<img src="http://localhost/doanshop/upload/news/resize_52_logof.jpg" height="80" width="80" align="left" class="img" />
+                <a href="http://localhost/doanshop/index.php/news/detail/6#left" class="a_news">Hội thảo: AMD – Công nghệ hướng tới tương lai</a>
+            </div>
+             <div class="ls"></div>
+                    	<div class="info_news">
+            	<img src="http://localhost/doanshop/upload/news/resize_22_mien-phi-van-chuyen.jpg" height="80" width="80" align="left" class="img" />
+                <a href="http://localhost/doanshop/index.php/news/detail/7#left" class="a_news">Chính sách mới: Giao hàng miễn phí trong bán kính 100km</a>
+            </div>
+             <div class="ls"></div>
+                    </div>    </div>
+    <div id="footer">
+        <div class="footer_info">
+        	<ul>
+            	<li><a href="#" class="white">Thông tin công ty</a></li>
+                <li><a href="#" class="white">Giới thiệu Hanoicomputer</a></li>
+                <li><a href="#" class="white">Liên hệ</a></li>
+                <li><a href="#" class="white">Tin tức</a></li>
+            </ul>
+        </div>	
+<div class="footer_info">
+        	<ul>
+            	<li><a href="#" class="white">Chăm sóc khách hàng</a></li>
+                <li><a href="#" class="white">Hướng dẫn mua hàng</a></li>
+                <li><a href="#" class="white">Bảo hành</a></li>
+                <li><a href="#" class="white">Vận chuyển</a></li>
+            </ul>
+        </div>
+<div class="footer_info">
+        	<ul>
+            	<li><a href="#" class="white">Tin tức</a></li>
+                <li><a href="#" class="white">Tin khuyến mãi</a></li>
+                <li><a href="#" class="white">Tin tuyển dụng</a></li>
+                <li><a href="#" class="white">Tin tức vận chuyển</a></li>
+            </ul>
+        </div>
+<div class="footer_info">
+<ul>
+            	<li><a href="#" class="white">Địa chỉ</a></li>
+                <li>Trụ sở: 131 Lê Thanh Nghị - Quận Hai Bà Trưng - HN</li>
+                <li>Tel: (04) 36280886 - Fax: (04) 38693859</li>
+                <li>Chi Nhánh: 43 Thái Hà - Quận Đống Đa - Hà Nội</li>
+                <li>Tel: (04) 35380088 - Fax: (04) 35380099</li>
+            </ul>
+      </div>	
+    </div>    
+</body>
+</html>

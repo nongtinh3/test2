@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+.js-disabled img { width:100px; display:block; float:left; margin:30px 0 0; }
+
+#outerContainer { width:542px; margin:auto; position:relative;  }
+#imageScroller { width:542px;  position:relative; border:1px solid #000; -moz-border-radius:5px 5px 5px 5px }
+#viewer { width:522px; height:140px; overflow:hidden; margin:auto; position:relative; top:10px; }
+#imageScroller a:active, #imageScroller a:visited { color:#000000; }
+#imageScroller a img { border:1px solid #000; margin:5px }
+#controls { width:534px; height:47px; background:url(public/image/controlsBG.png) no-repeat; position:absolute; top:4px; left:4px; z-index:10;	}
+#controls a { width:37px; height:35px; position:absolute; top:3px; }
+#controls a:active, #controls a:visited { color:#0d0d0d; }
+#title { color:#ffffff; font-family:arial; font-size:100%; font-weight:bold; width:100%; text-align:center; margin-top:10px; }
+#rtl { background:url(image/rtl.png) no-repeat; left:100px; }
+#rtl:hover { background:url(image/rtl_over.png) no-repeat; left:99px; }
+#ltr { background:url(image/ltr.png) no-repeat; right:100px; }
+#ltr:hover { background:url(image/ltr_over.png) no-repeat; }
+
+.td{
+	border:1px solid #ccc	
+}
+.atip{
+	float:left;
+	width:350px;	
+}
+img{
+	padding:5px;
+}
